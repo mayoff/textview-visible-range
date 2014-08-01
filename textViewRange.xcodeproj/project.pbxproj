@@ -13,6 +13,7 @@
 		318ED7BE198BF7240048A745 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 318ED7BC198BF7240048A745 /* Main.storyboard */; };
 		318ED7C0198BF7240048A745 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 318ED7BF198BF7240048A745 /* Images.xcassets */; };
 		318ED7CC198BF7240048A745 /* textViewRangeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 318ED7CB198BF7240048A745 /* textViewRangeTests.m */; };
+		318ED7D6198BFB830048A745 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 318ED7D5198BFB830048A745 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		318ED7C5198BF7240048A745 /* textViewRangeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = textViewRangeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		318ED7CA198BF7240048A745 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		318ED7CB198BF7240048A745 /* textViewRangeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = textViewRangeTests.m; sourceTree = "<group>"; };
+		318ED7D5198BFB830048A745 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		318ED7A6198BF7240048A745 = {
 			isa = PBXGroup;
 			children = (
+				318ED7D5198BFB830048A745 /* README.md */,
 				318ED7B1198BF7240048A745 /* textViewRange */,
 				318ED7C8198BF7240048A745 /* textViewRangeTests */,
 				318ED7B0198BF7240048A745 /* Products */,
@@ -196,6 +199,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				318ED7D6198BFB830048A745 /* README.md in Resources */,
 				318ED7BE198BF7240048A745 /* Main.storyboard in Resources */,
 				318ED7C0198BF7240048A745 /* Images.xcassets in Resources */,
 			);
